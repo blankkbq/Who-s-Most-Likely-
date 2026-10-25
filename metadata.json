@@ -1,0 +1,8 @@
+{
+  "name": "Who's Most Likely? - Multiplayer Party Game",
+  "description": "The ultimate social party game. Vote with friends in real-time, reveal hilarious secrets, and share viral result cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
